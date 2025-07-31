@@ -1,19 +1,23 @@
 # Installation:
 1. Clone repository 
 2. run on terminal:
+
     cd Suziria
+
     cp .env.qxample .env
-3. run on terminal:
+
+4. run on terminal:
+
     docker compose up -d
+
 ...after install
 4. run on terminal:
-   docker exec php83 composer install
-   chmod +x migrate.sh  
-   ./migrate.sh
 
    docker exec php83 composer install
-	chmod +x migrate.sh  
-	./migrate.sh 
+
+   chmod +x migrate.sh  
+   
+   ./migrate.sh
 
 # REQUESTS:
 
