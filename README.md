@@ -11,7 +11,8 @@
     docker compose up -d
 
 ...after install
-4. run on terminal:
+
+5. run on terminal:
 
    docker exec php83 composer install
 
