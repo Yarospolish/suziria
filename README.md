@@ -6,13 +6,13 @@
 
     cp .env.qxample .env
 
-4. run on terminal:
+3. run on terminal:
 
     docker compose up -d
 
 ...after install
 
-5. run on terminal:
+4. run on terminal:
 
    docker exec php83 composer install
 
